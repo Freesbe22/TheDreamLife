@@ -1,0 +1,3 @@
+[submodule "WorkoutPlanner"]
+	path = WorkoutPlanner
+	url = https://github.com/Freesbe22/WorkoutPlanner.git
